@@ -1,0 +1,55 @@
+.accueil {
+    color : white ;
+    font-size : 25px; 
+    font-weight: bold ;
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ; 
+    display : inline-block ;
+    padding : 30px; 
+    text-decoration: none;
+    box-sizing: boxing-size;
+
+}
+body { 
+    margin : 0px ;
+    background: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+}
+#accueil{
+    margin-left: 30%;
+   
+}
+#images { text-align: center ;
+    padding : 25px;
+}
+.images {
+    text-align : center ;
+    padding : 25px;
+    margin : 25px;
+}
+#contact-form {
+    text-align : center; 
+}
+a:hover {color : red; 
+}
+input:hover{
+    background-color : lightgray; 
+}
+#specialinput:hover {color :red;
+    background-color: lightskyblue;
+}
+label {
+color : white ;
+font-weight : bold ; 
+}
+#form123 {
+    height: 400px;
+    width: 400px;
+    max-width: 400px;
+    max-height: 150px;
+    
+    
+}
